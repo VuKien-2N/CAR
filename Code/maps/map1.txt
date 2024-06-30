@@ -1,0 +1,17 @@
+#   A..Z    Tiles A through Z
+#   *       Goal
+#   O       Obstacle 1
+#   o       Obstacle 2
+#   1       Rival 1
+#   2       Rival 2
+                
+      
+                                                                 
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+o O      C                     o      O            C              2
+             O     O         o                                    1
+                      C                       C   o               s
+*       C                          O                 o            2
+                                            O                     1
+         O           C                                O           o
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
